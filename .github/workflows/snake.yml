@@ -80,7 +80,7 @@ jobs:
 
       # Step 3: Deploy the generated files to the 'output' branch
 
-      - name: Deploy to Output Branch
+      - name: Deploy to main Branch
 
         uses: peaceiris/actions-gh-pages@v3
 
@@ -90,7 +90,7 @@ jobs:
 
           publish_dir: ./dist
 
-          publish_branch: output
+          publish_branch: main
 
           # Optionally, you can set a custom commit message
 
