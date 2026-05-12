@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="480" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello+Visitor+👋;Welcome+to+my+GitHub+Profile;Glad+to+see+you+here+🚀" />
 </p>
 
 ## Tech Stack
