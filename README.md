@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=120&section=header&text=Sakib%20Hasan&fontSize=40&fontColor=ffffff" />
+
+</div>
+
 ![snake gif](https://github.com/Pro-seka/test/blob/output/github-snake-dark.svg)
 
 <h1 align="center">Hello! i'm Sakib Hasan</h1>
