@@ -1,5 +1,11 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:3B82F6&height=160&section=header&text=Hey%20I'm%20Sakib&fontSize=45&fontColor=ffffff&animation=twinkling" />
+
+</div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Sakib;Welcome+to+my+GitHub+space" />
+  <b style="font-size:20px;">Welcome to my GitHub space</b>
 </p>
 
 <p align="center">
