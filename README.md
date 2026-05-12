@@ -6,9 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Always+Building+Something+New" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello+Visitor+👋;Welcome+to+my+GitHub+Profile;Glad+to+see+you+here+🚀" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=120&section=header&text=Welcome%20Visitor&fontSize=35&fontColor=ffffff" />
+
+</div>
 
 ## Tech Stack
 
