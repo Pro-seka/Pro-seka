@@ -1,9 +1,12 @@
-
 <br><br>
+
+<p align="center">
+  <b style="font-size:22px;">Hi, I’m Sakib</b>
+</p>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:3B82F6&height=160&section=header&text=Hey%20I'm%20Sakib&fontSize=45&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:3B82F6&height=160&section=header&text=Welcome&fontSize=45&fontColor=ffffff" />
 
 </div>
 
@@ -22,47 +25,6 @@
 ![snake gif](https://github.com/Pro-seka/test/blob/output/github-snake-dark.svg)
 
 ## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,fastapi&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,docker,vscode,linux&theme=dark" />
-</p>
-
-
-<br><br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:3B82F6&height=160&section=header&text=Hey%20I'm%20Sakib&fontSize=45&fontColor=ffffff" />
-
-</div>
-
-<p align="center">
-  <b style="font-size:22px;">Welcome to my GitHub space</b>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Developer+%7C+Problem+Solver;AI+%2F+ML+Enthusiast;Always+Building+Something+New" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
-</p>
-
----
-
-## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css&theme=dark" />
