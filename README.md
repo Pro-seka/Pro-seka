@@ -1,8 +1,9 @@
+
 <br><br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:3B82F6&height=160&section=header&text=Hey%20I'm%20Sakib&fontSize=45&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:3B82F6&height=160&section=header&text=Hey%20I'm%20Sakib&fontSize=45&fontColor=ffffff" />
 
 </div>
 
