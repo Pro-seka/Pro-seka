@@ -18,14 +18,17 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack
 
-## 🧠 ML & AI  
-Python · NumPy · Pandas · Scikit-learn · PyTorch  
+### 🧠 ML & AI
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
 
-## 🌐 Web  
-React · Next.js · Tailwind CSS · FastAPI  
+---
 
-## 🗄️ Database  
-PostgreSQL · MongoDB · Redis  
-
-## 🧰 Tools  
-Git · GitHub · Docker · Postman  
+### 🌐 Web
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
