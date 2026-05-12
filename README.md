@@ -3,20 +3,22 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:3B82F6&height=140&section=header&text=Welcome%20to%20my%20GitHub%20space&fontSize=38&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=150&section=header&text=Welcome%20to%20my%20GitHub%20space&fontSize=36&fontColor=ffffff" />
 
 </div>
 
 <br>
 
+<h2 align="center">Hi, I’m Sakib 👋</h2>
+
 <p align="center">
-  <b style="font-size:26px;">I’m Sakib</b>
+  Software Engineering Student • Developer • AI/ML Enthusiast
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Developer+%7C+Problem+Solver;AI+%2F+ML+Enthusiast;Always+Building+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+clean+and+useful+projects;Learning+DSA+%2F+Web+%2F+AI;Always+improving+every+day" />
 </p>
 
 <p align="center">
