@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z3dW1pZ3Z6eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5eG1iZ2t5
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" />
+</p>
 
 ## Tech Stack
 
