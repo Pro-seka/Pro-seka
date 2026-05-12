@@ -13,5 +13,13 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,react,nextjs,nodejs,express,tailwind,fastapi,mongodb,postgres,mysql,git,github,docker,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,fastapi&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,docker,vscode,linux&theme=dark" />
 </p>
