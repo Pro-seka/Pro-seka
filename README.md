@@ -1,6 +1,5 @@
 <p align="center">
-  <b>Hey there! I'm Sakib</b><br><br>
-  Welcome to my GitHub space ✨
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Sakib;Welcome+to+my+GitHub+space" />
 </p>
 
 <p align="center">
