@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="480" />
+  <img src="https://media.giphy.com/media/26BRGoqbUQvk8nwTC/giphy.gif" width="480" />
 </p>
 
 ## Tech Stack
