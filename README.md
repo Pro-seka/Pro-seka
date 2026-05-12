@@ -9,10 +9,15 @@
 
 <br>
 
-<h2 align="center">Hi, I’m Sakib 👋</h2>
 
 <p align="center">
-  Software Engineering Student • Developer • AI/ML Enthusiast
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Hi,+I%E2%80%99m+Sakib+👋;Software+Engineering+Student;Developer+%7C+AI%2FML+Enthusiast;Building+Something+Every+Day+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineering-Student-00F7F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Developer-Creator-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-8B5CF6?style=for-the-badge" />
 </p>
 
 <br>
