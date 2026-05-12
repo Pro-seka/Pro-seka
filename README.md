@@ -1,17 +1,11 @@
-<br><br>
-
-<p align="center">
-  <b style="font-size:22px;">Hi, I’m Sakib</b>
-</p>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:3B82F6&height=160&section=header&text=Welcome&fontSize=45&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:3B82F6&height=160&section=header&text=Welcome+to+my+GitHub+space&fontSize=45&fontColor=ffffff" />
 
 </div>
 
 <p align="center">
-  <b style="font-size:22px;">Welcome to my GitHub space</b>
+  <b style="font-size:22px;">I’m Sakib</b>
 </p>
 
 <p align="center">
