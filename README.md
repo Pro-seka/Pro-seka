@@ -9,6 +9,10 @@
 
 ![snake gif](https://github.com/Pro-seka/test/blob/output/github-snake-dark.svg)
 
+<p align="center">
+  <img alt="View Counter" src="https://count.getloli.com/get/@propmk?theme=original-new"/>
+</p>
+
 ## Tech Stack
 
 <p align="center">
