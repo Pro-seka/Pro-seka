@@ -3,9 +3,9 @@
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;A+Developer;AI+%2F+ML+Enthusiast;Always+Building+Something+New" />
 </p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fpropmk%2Fvisits&color=3B82F6&style=for-the-badge" alt="Views" />
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" />
+</p>
 
 ![snake gif](https://github.com/Pro-seka/test/blob/output/github-snake-dark.svg)
 
