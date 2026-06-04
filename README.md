@@ -9,10 +9,6 @@
 
 ![snake gif](https://github.com/Pro-seka/test/blob/output/github-snake-dark.svg)
 
-<div align="center">
-  <img src="https://moe-counter.glitch.me/get/@propmk?theme=rule34" alt="Profile Views" />
-</div>
-
 ## Tech Stack
 
 <p align="center">
