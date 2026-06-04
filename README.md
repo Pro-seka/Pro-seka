@@ -9,9 +9,9 @@
 
 ![snake gif](https://github.com/Pro-seka/test/blob/output/github-snake-dark.svg)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=ORBITAL_TRACKER&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fpropmk%2Fvisits&color=007acc&logo=target&logoColor=007acc" alt="Space Counter" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=propmk&color=00F7F7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
 ## Tech Stack
 
