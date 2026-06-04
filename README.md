@@ -10,7 +10,7 @@
 ![snake gif](https://github.com/Pro-seka/test/blob/output/github-snake-dark.svg)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=propmk&style=flat-square&labelColor=000000&color=39FF14&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Pro-seka&style=flat-square&labelColor=000000&color=39FF14&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 ## Tech Stack
