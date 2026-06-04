@@ -9,6 +9,10 @@
 
 ![snake gif](https://github.com/Pro-seka/test/blob/output/github-snake-dark.svg)
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=propmk&color=00F7F7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
 ## Tech Stack
 
 <p align="center">
